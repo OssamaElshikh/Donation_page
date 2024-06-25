@@ -1,3 +1,7 @@
+
+ 
+ 
+ 
  # How to run the project on your local host
 
 
@@ -67,6 +71,10 @@ if you encountered any issues the tsconfig.json should look like this :
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
   "exclude": ["node_modules"]
 }
+
+
+
+# feel free to contact me to get the anon key and the url for the supabase 
 
 
 Have fun ! :)
