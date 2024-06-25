@@ -11,19 +11,23 @@ cd Donation_page
 .. Install backend dependencies:
 
 cd server
+
 npm install
 
 .. Install frontend dependencies:
 
 cd ../client
+
 npm install
 
 .. Start the backend server:
 
 cd ../server
+
 npm start
 
 .. Start the frontend server:
 
 cd ../client
+
 npm run dev
